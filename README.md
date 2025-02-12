@@ -20,3 +20,4 @@ forest-health-detection/
 ├── requirements.txt         # Dépendances Python
 ├── .gitignore               # Fichiers à ignorer par Git
 └── README.md                # Documentation du projet
+
