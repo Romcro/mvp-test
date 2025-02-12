@@ -1,0 +1,37 @@
+# Environnements virtuels Python
+venv/
+.env/
+*.env
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Configurations d'IDE
+.vscode/
+.idea/
+
+# Fichiers logs
+*.log
+
+# Fichiers de données temporaires
+data/temp/
+*.tmp
+
+# Fichiers générés par GDAL, Rasterio, etc.
+*.aux.xml
+*.tif.aux.xml
+
+# Caches et fichiers temporaires
+.cache/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers liés à Conda ou pip
+*.conda
+*.lock
+
+# Clés d'authentification
+credentials.json
